@@ -10,7 +10,15 @@ class Program
 
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World!");
-        AddNumbers(1, 2);
+        Console.WriteLine("Welcome to Adder");
+        Console.WriteLine("Enter a number");
+        int num1 = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter another number");
+        int num2 = Convert.ToInt32(Console.ReadLine());
+
+        string toPrint;
+
+        toPrint =  AddNumbers(num1, num2) == 6 ? "Approved" : "Dissaproved";
+        Console.WriteLine(toPrint);
     }
 }

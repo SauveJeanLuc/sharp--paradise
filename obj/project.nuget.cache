@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nd8xHVHFdGsQ+L2Da0WbJZLnwFCCSSuqSkPfKXutVG67BU1c4VIR81XTfLRO7R6CEsUVWGZLTVH9xLtXGLGn5w==",
+  "dgSpecHash": "2xiCkSs9lQaMpj7ihPk3GZLY9ZRA7pr7E+IUB4eyukM1iSxauDJmSlyo0Enhd3eG10HRcbgseqUlpnMv5EPmMw==",
   "success": true,
   "projectFilePath": "/home/sauve/Documents/OpenSource/C#/SharpParadise/SharpParadise.csproj",
-  "expectedPackageFiles": [
-    "/home/sauve/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.8/microsoft.netcore.app.runtime.linux-x64.6.0.8.nupkg.sha512",
-    "/home/sauve/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.8/microsoft.aspnetcore.app.runtime.linux-x64.6.0.8.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
